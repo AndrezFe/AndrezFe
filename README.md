@@ -1,18 +1,19 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andres F Ramirez O
-==========================================================================================================================================
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Andres Felipe Ramirez O
 
-Software Developer
-------------------
+#### Software Developer
+
+---
 
 "long description..."
 
-*   🌍  I'm based in Neiva-Huila, Colombia
-*   🖥️  See my portfolio at [.](http://.)
-*   ✉️  You can contact me at [andresfelipero94@hotmail.com](mailto:andresfelipero94@hotmail.com)
-*   🚀  I'm currently working on [IndiGO technologies](http://indigo.tech)
-*   🧠  I'm learning .
-*   🤝  I'm open to collaborating on .
-*   ⚡  .### Skills 
+- 🌍 I'm based in Neiva-Huila, Colombia
+- ✉️ You can contact me at [andresfelipero94@hotmail.com](mailto:andresfelipero94@hotmail.com)
+- 🚀 I'm currently working on [IndiGO technologies](http://indigo.tech)
+- 🖥️ See my portfolio at [.](http://.)
+* 🧠 I'm learning .
+* 🤝 I'm open to collaborating on .
+* ⚡ .### Skills 
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -30,13 +31,9 @@ Software Developer
 ### Socials
 
 <p align="left">
-  <a href="https://www.dev.to/andrezfe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a>
-
-  <a href="https://www.github.com/AndrezFe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-      
-  <a href="https://www.linkedin.com/in/andresfro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-      
-  <a href="http://www.medium.com/andrezfe94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a>
-      
-  <a href="https://www.twitter.com/AndrezFe94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.dev.to/andrezfe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/AndrezFe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/andresfro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="http://www.medium.com/andrezfe94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/AndrezFe94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
