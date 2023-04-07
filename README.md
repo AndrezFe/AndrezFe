@@ -3,16 +3,12 @@
 #### Software Developer
 
 ---
-
-"long description..."
+I'm a passionate software developer with 4+ years of experience. I have a strong foundation in computer science, proficiency in multiple programming languages, and excellent communication skills. I take pride in delivering high-quality code that exceeds user expectations and am committed to creating exceptional software solutions that help businesses and individuals achieve their goals.
 
 - 🌍 I'm based in Neiva-Huila, Colombia
 - ✉️ You can contact me at [andresfelipero94@hotmail.com](mailto:andresfelipero94@hotmail.com)
 - 🚀 I'm currently working on [IndiGO technologies](http://indigo.tech)
 - 🖥️ See my portfolio at [.](http://.)
-* 🧠 I'm learning .
-* 🤝 I'm open to collaborating on .
-* ⚡ .### Skills 
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
