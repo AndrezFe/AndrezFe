@@ -6,8 +6,8 @@
 I'm a passionate software developer with 4+ years of experience. I have a strong foundation in computer science, proficiency in multiple programming languages, and excellent communication skills. I take pride in delivering high-quality code that exceeds user expectations and am committed to creating exceptional software solutions that help businesses and individuals achieve their goals.
 
 - 🌍 I'm based in Neiva-Huila, Colombia
-- ✉️ You can contact me at [andresfelipero94@hotmail.com](mailto:andresfelipero94@hotmail.com)
-- 🚀 I'm currently working on [IndiGO technologies](http://indigo.tech)
+- ✉️ You can contact me at [andresfelipero94@hotmail.com](mailto:andresfelipero94@hotmail.com) - [aramirez@indigo.tech](mailto:aramirez@indigo.tech)
+- 🚀 I'm currently working on [IndiGO technologies](http://indigo.tech) 
 - 🖥️ See my portfolio at [.](http://.)
 
 <p align="left">
